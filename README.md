@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ToonB07
-- 👀 I’m interested in lua
-- 🌱 I’m currently learning lua
+- 👋 Hi, I’m ``@ToonB07``
+- 👀 I’m interested in ``FiveM Coding``
+- 🌱 I’m currently learning ``lua``
 - 📫 How to reach me: Discord ``Toon B.#2293``
 
 <!---
